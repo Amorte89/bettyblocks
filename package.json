@@ -1,0 +1,10 @@
+{
+  "name": "bettyBlock-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.6.0",
+    "eslint": "^6.1.0",
+    "cypress-file-upload": "5.0.8"
+  }
+}

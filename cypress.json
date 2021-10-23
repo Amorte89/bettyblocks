@@ -1,0 +1,9 @@
+{
+  "projectId": "BettyBlocksTests",
+  "video": false,
+  "env": {
+    "user_url": "https://ui-test-app.betty.app/login",
+    "user_login": "newuser163501447655025746573129@gmail.com",
+    "user_password": "TestPass123"
+  }
+}
